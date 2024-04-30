@@ -18,3 +18,14 @@ The given graph quantifies the similarity amongst all the images in our dataset.
 Single 'Color Palatte Label' Graph has the following ordering of images:
 
 {'portrait-of-ginevra-benci': 'https://uploads5.wikiart.org/images/leonardo-da-vinci/portrait-of-ginevra-benci.jpg!Large.jpg', 'the-barefoot-girl-1895': 'https://uploads7.wikiart.org/images/pablo-picasso/the-barefoot-girl-1895.jpg!Large.jpg', 'branches-with-almond-blossom-1890(1)': 'https://uploads6.wikiart.org/images/vincent-van-gogh/branches-with-almond-blossom-1890(1).jpg!Large.jpg', 'poison-oasis': 'https://uploads4.wikiart.org/images/jean-michel-basquiat/poison-oasis.jpg!Large.jpg', 'the-scream-1893(2)': 'https://uploads2.wikiart.org/images/edvard-munch/the-scream-1893(2).jpg!Large.jpg', 'girl-on-the-ball-1905': 'https://uploads6.wikiart.org/images/pablo-picasso/girl-on-the-ball-1905.jpg!Large.jpg'}
+
+Busquait Testing Ordering of Images (image 7 and 8 are JMB):
+
+{'meditative-rose': 'https://uploads0.wikiart.org/images/salvador-dali/meditative-rose.jpg!Large.jpg', 
+'the-great-wave-off-kanagawa': 'https://uploads6.wikiart.org/00129/images/katsushika-hokusai/the-great-wave-off-kanagawa.jpg!Large.jpg', 
+'girl-in-a-blanket-1953': 'https://uploads6.wikiart.org/images/lucian-freud/girl-in-a-blanket-1953.jpg!Large.jpg', 
+'self-portrait-with-hands-on-chest-1910': 'https://uploads4.wikiart.org/images/egon-schiele/self-portrait-with-hands-on-chest-1910.jpg!Large.jpg', 
+'bird-fish': 'https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg', 
+'breton-woman-and-goose-by-the-water-1888': 'https://uploads6.wikiart.org/images/paul-gauguin/breton-woman-and-goose-by-the-water-1888.jpg!Large.jpg', 
+'Philistines': 'https://uploads3.wikiart.org/images/jean-michel-basquiat/philistines.jpg!Large.jpg', 
+'Skull': 'https://uploads5.wikiart.org/images/jean-michel-basquiat/head.jpg!Large.jpg'}
