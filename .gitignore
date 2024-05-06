@@ -1,3 +1,4 @@
 scratch_model_dataset/wikiart_images/*
 scratch_model_dataset/train_images/*
 !scratch_model_dataset/train_images/train_images_dict.pickle
+.DS_Store
