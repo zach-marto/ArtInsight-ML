@@ -117,3 +117,6 @@ for our comparison tasks. While this solution enables us to work with our predef
 recognize the potential for alternative prompting strategies or further model tuning to ensure GPT-4 remains
 within the specified parameter constraints, an area that requires further exploration and refinement from
 our end.
+
+## Further Exploration
+Our final experiment was to create our own CNN to classify images by style. Despite training our model on 5,000 paintings, tweaking the architecture, and tuning the hyperparameters, we were not able to achieve consistently decreasing loss. Although this may have been due to our model’s shortcomings, we think it supports the power of interpreting art with a language intermediary as implemented in our model.
